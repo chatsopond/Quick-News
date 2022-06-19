@@ -7,6 +7,10 @@
 - Users can search the news by keyword
   - Debounced ~1 second before performing a search while users type keywords
 
+## Development Info
+
+- Xcode Version 13.4.1 (13F100)
+
 ## Demo
 
 ![demo](demo-news.gif)
