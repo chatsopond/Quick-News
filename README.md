@@ -5,7 +5,7 @@
 - Users can tap the news on the list to see news detail
 - Users can see loading and error UI
 - Users can search the news by keyword
-  - Debounced 1 second before performing a search while users type keywords
+  - Debounced ~1 second before performing a search while users type keywords
 
 ## Demo
 
